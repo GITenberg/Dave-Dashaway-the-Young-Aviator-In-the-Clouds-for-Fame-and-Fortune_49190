@@ -1,4 +1,8 @@
 _repo: Dave-Dashaway-the-Young-Aviator-In-the-Clouds-for-Fame-and-Fortune_49190
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49190-h/images/cover.jpg
 creator:
   author:
     agent_name: Rockwood, Roy
@@ -6,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1625
     wikipedia: http://en.wikipedia.org/wiki/Roy_Rockwood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49190#Dave-Dashaway-the-Young-Aviator-In-the-Clouds-for-Fame-and-Fortune
 gutenberg_issued: '2015-06-11'
 gutenberg_type: Text
 identifiers:
